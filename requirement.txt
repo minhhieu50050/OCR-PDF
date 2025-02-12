@@ -1,0 +1,5 @@
+streamlit
+PyMuPDF
+pytesseract
+pdf2image
+google-generativeai
