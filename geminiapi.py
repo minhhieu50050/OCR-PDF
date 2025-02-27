@@ -12,7 +12,7 @@ from typing import List, Dict, Union
 import re 
 import os
 import shutil
-local_tessdata_path = "tessdata/vie.traineddata"
+local_tessdata_path = "vie.traineddata"
 
 # Tạo thư mục tạm thời để lưu tessdata
 temp_tessdata_dir = "/tmp/tessdata"
